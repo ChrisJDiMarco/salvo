@@ -27,8 +27,9 @@ The iPhone Duo model, textures, wallpapers, and Launcher screenshots belong to A
 
 This is an independent animation study, not an Apple product or an Apple-endorsed project. iPhone and Apple are trademarks of Apple Inc.
 
-## Added for the interactive Computer prototype
+## Added for the live app screens
 
 - **modern-screenshot 4.7.0** (`vendor/modern-screenshot/`), MIT, © 2021-present wxm. Used to snapshot the live screens for the fold animation.
 - **three.js CSS3DRenderer r186** (`vendor/three/examples/jsm/renderers/CSS3DRenderer.js`), MIT, same license as the bundled three.js.
-- **Antonio** font (`apps/computer/fonts/antonio-latin.woff2`), SIL Open Font License 1.1, by Vernon Adams.
+- **Saira Stencil One** (`apps/salvo/fonts/stencil.woff2`), SIL Open Font License 1.1, Copyright 2019 The Saira Stencil Project Authors. License: [OFL-SairaStencilOne.txt](apps/salvo/fonts/OFL-SairaStencilOne.txt).
+- **Barlow Condensed** (`apps/salvo/fonts/barlow-500/600/700.woff2`), SIL Open Font License 1.1, Copyright 2017 The Barlow Project Authors. License: [OFL-BarlowCondensed.txt](apps/salvo/fonts/OFL-BarlowCondensed.txt).
